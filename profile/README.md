@@ -7,20 +7,6 @@ We use AI to build what one person couldn't build alone.
 
 ---
 
-### The Stack
-
-| Project | What it does |
-|---------|--------------|
-| [**cortex**](https://github.com/RikaiDev/cortex) | Memory & workflows for AI coding assistants |
-| [**inboxd**](https://github.com/RikaiDev/inboxd) | Unified inbox with AI-powered triage |
-| [**toki**](https://github.com/RikaiDev/toki) | Automatic time tracking, zero friction |
-| [**mimamori**](https://github.com/RikaiDev/mimamori) | Workplace atmosphere guardian |
-| [**kaido**](https://github.com/RikaiDev/kaido) | AI ops coach — learn by doing |
-
-All built with Claude Code. All MIT licensed. All shipping.
-
----
-
 ### The Philosophy
 
 **理解 (Rikai)** — Understanding.
